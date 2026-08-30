@@ -176,5 +176,14 @@
       "The 'first-update' tag still exists."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1788101786.333038,
+    "completed_at": 1788101787.767581,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
   }
 ]
